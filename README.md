@@ -1,6 +1,9 @@
 # 📚 Library Book Management System
 
-A console-based Library Management System built using *Java Collections Framework*. It allows users to manage a collection of books by adding, updating, and retrieving them based on popularity (rating). The system follows a layered architecture using Model, DAO, Service, and View layers.
+A simple console-based Java application to manage a small library. This system keeps track of books, borrowers, and the loan status of books using **Core Java and Collections Framework**.
+
+**🔍 Project Overview**
+This Library Management System is designed for basic library operations such as adding books, issuing them to borrowers, and viewing their availability. It’s suitable for beginners looking to practice object-oriented programming and Java collections
 
 ---
 
