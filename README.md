@@ -3,6 +3,7 @@
 A simple console-based Java application to manage a small library. This system keeps track of books, borrowers, and the loan status of books using **Core Java and Collections Framework**.
 
 **🔍 Project Overview**
+
 This Library Management System is designed for basic library operations such as adding books, issuing them to borrowers, and viewing their availability. It’s suitable for beginners looking to practice object-oriented programming and Java collections
 
 ---
