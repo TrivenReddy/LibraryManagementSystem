@@ -1,4 +1,4 @@
-#📚 Library Management System #
+#📚 Library Management System 
 
 A simple console-based Java application to manage a small library. This system keeps track of books, borrowers, and the loan status of books using Core Java and Collections Framework.
 
